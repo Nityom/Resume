@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Nityom Tikhe",
+    "description":"I am a web development engineer and I use react.js to develop pages. This is my resume",
+    "image":"profilepic.jpg",
+    "bio":"Passionate about crafting seamless and visually appealing digital experiences, I am a dedicated Front-end Developer with a keen eye for detail and a knack for translating design concepts into elegant, responsive, and user-friendly websites. My journey in the world of web development has been fueled by a genuine passion for technology and a commitment to staying at the forefront of industry trends.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "nityomtikherr@gmail.com",
+    "phone": "+917796308778",
+    "github":"https://github.com/Nityom",
+   
+    "address":{
+     
+      "city":"Pune",
+      "state":"Maharashtra",
+      "zip": "411046"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Nityomrr",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nityom-tikhe-bb53b3249/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/nityomrr/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Nityom",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"BHARATI VIDYAPEETH COLLEGE OF ENGINEERING, PUNE",
+        "degree":"Bachelor of Technology In Information Technology",
+        "graduated":"August 2026",
+        "description":"My four years at Bharati Vidyapeeth College of Engineering  has not only equipped me with a solid foundation in Information Technology but has also shaped me into a well-rounded professional. I look forward to leveraging the skills and knowledge gained during my academic journey in my future endeavors as a front-end developer."
+      },
+      {
+        "school":"Agragami High School",
+        "degree":"Primary and Secondary Education",
+        "graduated":"June 2020",
+        "description":"My time at Agragami High School was a transformative period that laid the groundwork for my future endeavors. The lessons learned, both inside and outside the classroom, have been invaluable in shaping my character, fostering a passion for learning, and preparing me for the challenges and opportunities that lie ahead. I carry with me the memories and lessons from this phase of education as I embark on the next chapter of my academic and personal journey."
+      }
+    ],
+    "work":[
+      {
+        "company":"Shahi Dental Clinic",
+        "title":"Front-End Developer",
+        "years":"September 2023 - December 2023",
+        "description":"To Develop Website from Scratch,Vanila JS,SEO Optimization , Wordpress Integration for blogs , Deployment and Appointment Booking."
+      },
+      {
+        "company":"AmiJivDaya",
+        "title":"Front-End Developer",
+        "years":"Jabuary 2024 - February 2024",
+        "description":"To Develop Website from Scratch using the given Design using Vanila JS."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Vanilla JS",
+        "level":"70%"
+      },
+      
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"60%"
+      },
+      {
+        "name":"AppScript",
+        "level":"50%"
+      },
+      {
+        "name":"C++",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Shahi Dental Clinic",
+        "category":"A Dental Clinic Website",
+        "image":"01.png",
+        "url":"https://www.shahidentalclinic.com"
+      },
+      {
+        "title":"AmiJivDaya",
+        "category":"An E-commerce site for a StartUp",
+        "image":"02.png",
+        "url":"https://amijivdaya.com/"
+      },
+      {
+        "title":"Tic-Tac-Toe using React",
+        "category":"A Practice Project using React",
+        "image":"03.png",
+        "url":"https://github.com/Nityom/Tic-Tac-Toe-using-React"
+      },
+      {
+        "title":"Technoverse Hackathon",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"04.jpg",
+        "url":"https://github.com/Nityom/Technoverse_Hackathon"
+      }
+    ]
+  }
+}
